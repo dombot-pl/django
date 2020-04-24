@@ -1,0 +1,2 @@
+# django
+Pierwsza wersja testowa
